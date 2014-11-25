@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD897049-EAC3-460A-9B3F-85AFDD13B2E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DrunkCalc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B28550C4131AFAFB04A17469F599843F229DF643</key>
+		<string>https://github.com/chrisrep/Drunk-Calc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DrunkCalc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B28550C4131AFAFB04A17469F599843F229DF643</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chrisrep/Drunk-Calc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B28550C4131AFAFB04A17469F599843F229DF643</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B28550C4131AFAFB04A17469F599843F229DF643</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrunkCalc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
